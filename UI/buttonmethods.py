@@ -9,7 +9,7 @@ class Buttons(object): # Functions of Buttons
         self.addbutton.clicked.connect(self.add_entry)
         self.updatebutton.clicked.connect(self.update_entry)
         self.removebutton.clicked.connect(self.remove_entry)
-        self.REFRESHbutton.clicked.connect(self.refresh_table)
+        self.refreshbutton.clicked.connect(self.refresh_table)
         
     def loginmain(self):
         l_username = self.userinputlogin.text()

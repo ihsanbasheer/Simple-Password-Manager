@@ -179,9 +179,9 @@ class Ui():
                                         }
                                         ''')
 
-        self.REFRESHbutton = QtWidgets.QPushButton(self.mainpage)
-        self.REFRESHbutton.setGeometry(QtCore.QRect(900, 60, 101, 31))
-        self.REFRESHbutton.setObjectName("REFRESHbutton")
+        self.refreshbutton = QtWidgets.QPushButton(self.mainpage)
+        self.refreshbutton.setGeometry(QtCore.QRect(900, 60, 101, 31))
+        self.refreshbutton.setObjectName("Refresh")
         
         self.tablelabel = QtWidgets.QLabel(self.mainpage)
         self.tablelabel.setGeometry(QtCore.QRect(650, 60, 121, 16))
@@ -207,5 +207,5 @@ class Ui():
         self.userlabel.setText(_translate("MainWindow", "USERNAME"))
         self.addbutton.setText(_translate("MainWindow", "ADD"))
         self.updatebutton.setText(_translate("MainWindow", "UPDATE"))
-        self.REFRESHbutton.setText(_translate("MainWindow", "REFRESH"))
+        self.refreshbutton.setText(_translate("MainWindow", "REFRESH"))
         self.tablelabel.setText(_translate("MainWindow", "CREDENTIALS"))    
