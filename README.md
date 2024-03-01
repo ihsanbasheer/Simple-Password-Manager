@@ -38,7 +38,7 @@ Notes:
 
 This application is designed to be a simple and lightweight password manager.
 Users are encouraged to manage passwords responsibly and follow best practices for online security.
-This password manager has no password hashing or other security features
+This password manager has no password hashing or other security features other than a login page.
 
 
 
