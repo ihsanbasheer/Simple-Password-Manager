@@ -13,7 +13,7 @@ Local SQL Database: Utilizing SQLite3, the password manager securely stores and 
 
 Password Management:
 
-Login page: A simple login page requesting username and password to acces the password manager.(check usage to see setting up login credentials)
+Login page: A simple login page requesting username and password to acces the password manager.(check usage to see setting up login credentials).
 Add Passwords: Users can easily add new passwords to the manager, providing details such as the website, username, and password.
 Remove Passwords: Passwords that are no longer needed can be removed from the database, enhancing data management.
 Update Functionality: Users have the ability to update existing passwords, allowing them to modify credentials as needed.
